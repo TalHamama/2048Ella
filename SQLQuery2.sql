@@ -1,0 +1,1 @@
+﻿SELECT COUNT (*) FROM usersData WHERE username = '" ella ashtar"' +'"12345678"'
